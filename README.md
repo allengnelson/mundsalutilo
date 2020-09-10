@@ -1,2 +1,4 @@
 # mundsalutilo
-Clone of a world greeter.
+en-us: Clone of a world greeter.
+
+eo: Klono de mondsalutilo.
